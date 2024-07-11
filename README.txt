@@ -1,0 +1,1 @@
+In questo progetto bisognava replicare il sito presente nell'immagine il più fedelmente possibile implementando la libreria di Bootstrap
